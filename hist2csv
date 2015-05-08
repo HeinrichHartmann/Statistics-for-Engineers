@@ -1,0 +1,4 @@
+#!/bin/bash
+cat |\
+jq ".[$1][2] | to_entries | .[] | [.key, .value] | @csv" --raw-output |\
+perl -pe 's/"//g'
