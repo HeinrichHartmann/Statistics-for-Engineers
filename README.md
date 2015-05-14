@@ -1,7 +1,7 @@
 # StatisticsTutorial
 Statistics for Engineers Tutorial at SRECon15
 
-Hashtag [#SREcon15Stats](https://twitter.com/hashtag/srecon15stats?src=hash)
+Discussion: [#SREcon15Stats](https://twitter.com/hashtag/srecon15stats?src=hash)
 
 ## Slides
 
