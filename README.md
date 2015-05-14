@@ -1,6 +1,32 @@
 # StatisticsTutorial
 Statistics for Engineers Tutorial at SRECon15
 
+## Slides
+
+1. [Descriptive Statistics](Part_I_Descriptive_Statistics.ipynb)
+2. [Data Handling Tools](Part_II_Data_Handling.ipynb)
+3. [Hands on](Part_III_Hands_On_Session.ipynb)
+
+## Further Reading
+
+* Janert - Data Analysis with Open Source tools
+
+### Mathematics
+
+* Wasserman - All of Statistics: A Concise Course in Statistical Inference  
+
+* Downey - Think Stats: Probability and Statistics for Programmers  
+
+* Rice - Mathematical Statistics and Data Analysis (advanced)
+
+### Tools
+
+* Janssens - Data Science at the Command Line (O'Reilly 2015)  
+
+* Johnson - Pro Bash Programming (Apress, 2009)
+
+* McKinney - Python for Data Anlaysis  
+
 ## DataSets
 
 * [dc1cpu.csv](DataSets/dc1cpu.csv) - CPU utilization of a machine cluster
