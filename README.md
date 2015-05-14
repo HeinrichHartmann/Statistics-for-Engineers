@@ -1,6 +1,8 @@
 # StatisticsTutorial
 Statistics for Engineers Tutorial at SRECon15
 
+Hashtag [#SREcon15Stats](https://twitter.com/hashtag/srecon15stats?src=hash)
+
 ## Slides
 
 1. [Descriptive Statistics](Part_I_Descriptive_Statistics.ipynb)
