@@ -9,7 +9,7 @@ Statistics for Engineers Tutorial at SRECon15
 
 ## Further Reading
 
-* Janert - Data Analysis with Open Source tools
+Janert - Data Analysis with Open Source tools
 
 * Mathematics
   - Wasserman - All of Statistics: A Concise Course in Statistical Inference  
@@ -19,8 +19,7 @@ Statistics for Engineers Tutorial at SRECon15
 * Tools
   - Janssens - Data Science at the Command Line (O'Reilly 2015)  
   - Johnson - Pro Bash Programming (Apress, 2009)
-
-* McKinney - Python for Data Anlaysis  
+  - McKinney - Python for Data Anlaysis  
 
 ## DataSets
 
