@@ -1,11 +1,20 @@
 # Statistics for Engineers
 
-## Conferences
+Gathering all kinds of telemetry data is key to operating reliable distributed systems at scale. Once you have set-up your monitoring systems and recorded all relevant data, the challenge becomes to make sense of it and extract valuable information, like:
 
-* [SRECon15 - Dublin](https://www.usenix.org/conference/srecon15europe/program)
-* [StatsCraft - TelAviv](http://www.statscraft.org.il/)
+* Are we fulfilling our SLA?
+* How did our query response times change with the last update?
 
-Discussion: [#StatsForEngineers](https://twitter.com/hashtag/statsforengineers?src=hash)
+Statistics is the art of extracting information from data. In this tutorial, we address the basic statistical knowledge that helps you at your daily work as a system operator. We will cover probabilistic models, summarizing distributions with mean values, quantiles, and histograms and their relations. Also advanced topics like time series forecasting and scalability analysis will be touched.
+
+The tutorial focuses on practical aspects and will give you hands on knowledge of how to handle, import, analyze, and visualize telemetry data with UNIX command line tools, gnuplot, and the iPython toolkit.
+
+## Events
+
+* 2015-05-14 [SRECon15](https://www.usenix.org/conference/srecon15europe/program), Dublin, Ireland
+* 2015-07-29 [StatsCraft](http://www.statscraft.org.il/), Tel-Aviv, Israel
+
+Discussin on Twitter [#StatsForEngineers](https://twitter.com/hashtag/statsforengineers?src=hash)
 
 ## Slides
 
@@ -15,14 +24,13 @@ Discussion: [#StatsForEngineers](https://twitter.com/hashtag/statsforengineers?s
 
 ## Further Reading
 
-Janert - Data Analysis with Open Source tools
-
 * Mathematics
   - Wasserman - All of Statistics: A Concise Course in Statistical Inference  
   - Downey - Think Stats: Probability and Statistics for Programmers  
   - Rice - Mathematical Statistics and Data Analysis (advanced)
 
 * Tools
+  - Janert - Data Analysis with Open Source tools
   - Janssens - Data Science at the Command Line (O'Reilly 2015)  
   - Johnson - Pro Bash Programming (Apress, 2009)
   - McKinney - Python for Data Anlaysis  
