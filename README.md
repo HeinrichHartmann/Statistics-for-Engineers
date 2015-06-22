@@ -1,7 +1,11 @@
-# StatisticsTutorial
-Statistics for Engineers Tutorial at SRECon15
+# Statistics for Engineers
 
-Discussion: [#SREcon15Stats](https://twitter.com/hashtag/srecon15stats?src=hash)
+## Conferences
+
+* [SRECon15 - Dublin](https://www.usenix.org/conference/srecon15europe/program)
+* [StatsCraft - TelAviv](http://www.statscraft.org.il/)
+
+Discussion: [#StatsForEngineers](https://twitter.com/hashtag/statsforengineers?src=hash)
 
 ## Slides
 
