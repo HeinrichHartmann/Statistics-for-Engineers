@@ -14,7 +14,7 @@ The tutorial focuses on practical aspects and will give you hands on knowledge o
 * 2015-05-14 [SRECon15](https://www.usenix.org/conference/srecon15europe/program), Dublin, Ireland
 * 2015-07-29 [StatsCraft](http://www.statscraft.org.il/), Tel-Aviv, Israel
 
-Discussin on Twitter [#StatsForEngineers](https://twitter.com/hashtag/statsforengineers?src=hash)
+Discussin on Twitter [#StatsForEngineers](https://twitter.com/search?q=%23statsforengineers&src=typd)
 
 ## Slides
 
