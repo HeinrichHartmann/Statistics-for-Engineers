@@ -9,18 +9,22 @@ Statistics is the art of extracting information from data. In this tutorial, we 
 
 The tutorial focuses on practical aspects and will give you hands on knowledge of how to handle, import, analyze, and visualize telemetry data with UNIX command line tools, gnuplot, and the iPython toolkit.
 
+## Episodes
+
+0. [Introduction](Episode 0 - Introduction.ipynb)
+1. [Visualizing Data](Episode 1 -- Visualizing Data.ipynb)
+2. [Histograms](Episode 2 -- Histograms.ipynb)
+3. [Summary Statistics](Episode 3 -- Summary Statistics.ipynb)
+4. [Quantiles and Outliers](Episode 4 -- Quantiles and Outliers.ipynb)
+5. [Forecasing](Episode 5 -- Forecasting.ipynb)
+
 ## Events
 
 * 2015-05-14 [SRECon15](https://www.usenix.org/conference/srecon15europe/program), Dublin, Ireland
 * 2015-07-29 [StatsCraft](http://www.statscraft.org.il/), Tel-Aviv, Israel
+* 2015-10-28 [Velocity](http://velocityconf.com/devops-web-performance-eu-2015/public/schedule/detail/45241), Amsterdam, Netherlands
 
 Discussin on Twitter [#StatsForEngineers](https://twitter.com/search?q=%23statsforengineers&src=typd)
-
-## Slides
-
-1. [Descriptive Statistics](Part_I_Descriptive_Statistics.ipynb)
-2. [Data Handling Tools](Part_II_Data_Handling.ipynb)
-3. [Hands on](Part_III_Hands_On_Session.ipynb)
 
 ## Further Reading
 
@@ -34,6 +38,12 @@ Discussin on Twitter [#StatsForEngineers](https://twitter.com/search?q=%23statsf
   - Janssens - Data Science at the Command Line (O'Reilly 2015)  
   - Johnson - Pro Bash Programming (Apress, 2009)
   - McKinney - Python for Data Anlaysis  
+
+## Slides for an earlier version
+
+1. [Descriptive Statistics](Part_I_Descriptive_Statistics.ipynb)
+2. [Data Handling Tools](Part_II_Data_Handling.ipynb)
+3. [Hands on](Part_III_Hands_On_Session.ipynb)
 
 ## DataSets
 
