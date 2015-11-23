@@ -11,7 +11,7 @@ The tutorial focuses on practical aspects and will give you hands on knowledge o
 
 ## Episodes
 
-0. [Introduction](Episode 0 - Introduction.ipynb)
+0. [Introduction](Episode 0 -- Introduction.ipynb)
 1. [Visualizing Data](Episode 1 -- Visualizing Data.ipynb)
 2. [Histograms](Episode 2 -- Histograms.ipynb)
 3. [Summary Statistics](Episode 3 -- Summary Statistics.ipynb)
