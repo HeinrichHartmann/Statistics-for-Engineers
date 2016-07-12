@@ -23,6 +23,7 @@ The tutorial focuses on practical aspects and will give you hands on knowledge o
 * 2015-05-14 [SRECon15](https://www.usenix.org/conference/srecon15europe/program), Dublin, Ireland
 * 2015-07-29 [StatsCraft](http://www.statscraft.org.il/), Tel-Aviv, Israel
 * 2015-10-28 [Velocity](http://velocityconf.com/devops-web-performance-eu-2015/public/schedule/detail/45241), Amsterdam, Netherlands
+* 2016-06-12 [SRECon16](https://srecon16europe.sched.org/event/7VkQ/statistics-for-engineers), Dublin, Ireland
 
 Discussin on Twitter [#StatsForEngineers](https://twitter.com/search?q=%23statsforengineers&src=typd)
 
