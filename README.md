@@ -11,12 +11,12 @@ The tutorial focuses on practical aspects and will give you hands on knowledge o
 
 ## Episodes
 
-0. [Introduction](Episode 0 -- Introduction.ipynb)
-1. [Visualizing Data](Episode 1 -- Visualizing Data.ipynb)
-2. [Histograms](Episode 2 -- Histograms.ipynb)
-3. [Summary Statistics](Episode 3 -- Summary Statistics.ipynb)
-4. [Quantiles and Outliers](Episode 4 -- Quantiles and Outliers.ipynb)
-5. [Forecasing](Episode 5 -- Forecasting.ipynb)
+0. [Introduction](Episode%200%20--%20Introduction.ipynb)
+1. [Visualizing Data](Episode%201%20--%20Visualizing%20Data.ipynb)
+2. [Histograms](Episode%202%20--%20Histograms.ipynb)
+3. [Summary Statistics](Episode%203%20--%20Summary%20Statistics.ipynb)
+4. [Quantiles and Outliers](Episode%204%20--%20Quantiles%20and%20Outliers.ipynb)
+5. [Forecasing](Episode%205%20--%20Forecasting.ipynb)
 
 ## Events
 
