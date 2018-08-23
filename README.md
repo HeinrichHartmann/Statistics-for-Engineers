@@ -20,6 +20,30 @@ The tutorial focuses on practical aspects and will give you hands on knowledge o
 4. [Quantiles and Outliers](2015-10-28-Velocity-Amsterdam/Episode%204%20--%20Quantiles%20and%20Outliers.ipynb)
 5. [Forecasting](2015-10-28-Velocity-Amsterdam/Episode%205%20--%20Forecasting.ipynb)
 
+## Boostrap
+
+If you have access to a machine with docker installed, you can boostrap
+an interactive working environment with a single command:
+
+```
+$ ./docker.sh
+[...]
+#
+# Data Science 4 Effective Operations
+#
+# starting jupyter notebook&lab ...
+done
+#
+# Notebook:
+# * local url: http://0.0.0.0:9999/?token=F2AlHtJBvHIqoLFEVfbMnUVFkcpFlJuZ
+# * public url: http://11.22.33.192:9999/?token=F2AlHtJBvHIqoLFEVfbMnUVFkcpFlJuZ
+#
+# Lab:
+# * local url: http://0.0.0.0:9998/?token=F2AlHtJBvHIqoLFEVfbMnUVFkcpFlJuZ
+# * public url: http://11.22.33.192:9998/?token=F2AlHtJBvHIqoLFEVfbMnUVFkcpFlJuZ
+```
+
+
 ## Events
 
 This workshop has been held in at a number of events in slightly different forms.
