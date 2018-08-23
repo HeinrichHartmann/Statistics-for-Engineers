@@ -13,12 +13,12 @@ The tutorial focuses on practical aspects and will give you hands on knowledge o
 
 ## Episodes
 
-0. [Introduction](Episode%200%20--%20Introduction.ipynb)
-1. [Visualizing Data](Episode%201%20--%20Visualizing%20Data.ipynb)
-2. [Histograms](Episode%202%20--%20Histograms.ipynb)
-3. [Summary Statistics](Episode%203%20--%20Summary%20Statistics.ipynb)
-4. [Quantiles and Outliers](Episode%204%20--%20Quantiles%20and%20Outliers.ipynb)
-5. [Forecasing](Episode%205%20--%20Forecasting.ipynb)
+0. [Introduction](2015-10-28-Velocity-Amsterdam/Episode%200%20--%20Introduction.ipynb)
+1. [Visualizing Data](2015-10-28-Velocity-Amsterdam/Episode%201%20--%20Visualizing%20Data.ipynb)
+2. [Histograms](2015-10-28-Velocity-Amsterdam/Episode%202%20--%20Histograms.ipynb)
+3. [Summary Statistics](2015-10-28-Velocity-Amsterdam/Episode%203%20--%20Summary%20Statistics.ipynb)
+4. [Quantiles and Outliers](2015-10-28-Velocity-Amsterdam/Episode%204%20--%20Quantiles%20and%20Outliers.ipynb)
+5. [Forecasting](2015-10-28-Velocity-Amsterdam/Episode%205%20--%20Forecasting.ipynb)
 
 ## Events
 
@@ -29,6 +29,8 @@ This workshop has been held in at a number of events in slightly different forms
 * 2015-10-28 [Velocity](http://velocityconf.com/devops-web-performance-eu-2015/public/schedule/detail/45241), Amsterdam, Netherlands
 * 2015-07-29 [StatsCraft](http://www.statscraft.org.il/), Tel-Aviv, Israel
 * 2015-05-14 [SRECon15](https://www.usenix.org/conference/srecon15europe/program), Dublin, Ireland
+
+See the corresponding subfolders for the presented content.
 
 If you want to be informed about upcoming events consider watch out for the following hashtag on Twitter: [#StatsForEngineers](https://twitter.com/search?q=%23statsforengineers&src=typd)
 
