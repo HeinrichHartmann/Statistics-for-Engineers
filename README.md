@@ -58,7 +58,7 @@ See the corresponding subfolders for the presented content.
 
 If you want to be informed about upcoming events consider watch out for the following hashtag on Twitter: [#StatsForEngineers](https://twitter.com/search?q=%23statsforengineers&src=typd)
 
-## Monitorama, PDX 2016
+### Monitorama, PDX 2016
 
 * Event: 2016-06-29 [Monitorama](http://monitorama.com/2016/pdx.html), Portland USA
 
@@ -66,7 +66,7 @@ If you want to be informed about upcoming events consider watch out for the foll
 
 * Video: https://vimeo.com/173610069
 
-## CACM
+### CACM
 
 A writeup of the material was published in print by the CACM and the ACM Queue magazine.
 
