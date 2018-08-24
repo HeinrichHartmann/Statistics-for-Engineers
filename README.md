@@ -58,6 +58,25 @@ See the corresponding subfolders for the presented content.
 
 If you want to be informed about upcoming events consider watch out for the following hashtag on Twitter: [#StatsForEngineers](https://twitter.com/search?q=%23statsforengineers&src=typd)
 
+## Monitorama, PDX 2016
+
+* Event: 2016-06-29 [Monitorama](http://monitorama.com/2016/pdx.html), Portland USA
+
+* Slides: https://www.slideshare.net/HeinrichHartmann/statistics-for-engineers-63589022?qid=f66fa7df-ddd5-48fb-ab5d-9e1ddbd2a162&v=&b=&from_search=3
+
+* Video: https://vimeo.com/173610069
+
+## CACM
+
+A writeup of the material was published in print by the CACM and the ACM Queue magazine.
+
+* ACM Queue 14/1: https://queue.acm.org/detail.cfm?id=2903468
+
+* CACM Vol. 59 No. 7 (paywalled): https://cacm.acm.org/magazines/2016/7/204029-statistics-for-engineers/abstract
+
+![](img/acmq.png)
+
+
 ## Further Reading
 
 * Mathematics
