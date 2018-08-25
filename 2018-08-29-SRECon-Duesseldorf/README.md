@@ -18,7 +18,8 @@ We have a total of 3 hours at our disposal, with a 30min coffee break in the mid
 
 |Time | Content |
 |-----|:--------|
-|14:00| Theory 1: Descriptive Statistics (1h) |
+|14:00| Intro: Measuring Systems |
+|14:30| Theory 1: Descriptive Statistics |
 |15:00| Lab 1: Jupyter, Numpy, Loading data |
 |15:30| -- Coffee Break -- |
 |16:00| Theory 2: Histograms |
