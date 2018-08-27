@@ -18,16 +18,12 @@ We have a total of 3 hours at our disposal, with a 30min coffee break in the mid
 
 |Time | Content |
 |-----|:--------|
-|14:00| Intro: Measuring Systems |
-|14:30| Theory 1: Descriptive Statistics |
-|15:00| Lab 1: Jupyter, Numpy, Loading data |
+|14:00| 1: Measuring Systems |
+|14:30| 2: Data Visualization |
+|     | 3: Data Aggregation |
+|15:00| Lab 1: Data Visualization and Aggregation |
 |15:30| -- Coffee Break -- |
-|16:00| Theory 2: Histograms |
-|16:30| Theory 3: Regressions |
-|17:00| Lab 2: Histograms / Regressions |
-
-## Strigo
-
-We will be using String.io for the labs:
-
-https://app.strigo.io/events/WrPz6Wpk78mMDQYgD
+|16:00| 4: Histograms |
+|16:30| 5: Deviation Measures |
+|     | 6: Regressions |
+|17:00| Lab 2: - Histograms, Regressions |
