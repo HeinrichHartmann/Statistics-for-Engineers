@@ -12,6 +12,9 @@ We will be using String.io for the labs:
 
 You will get a personal VM with an installed workshop environment.
 
+You can also bootstrap the workshop environment on your machine.
+All you need is a docker installation and /docker.sh.
+
 ## Labs
 
 Labs are located in the SRECon-Dusseldorf/Labs folder:
@@ -22,10 +25,11 @@ Labs are located in the SRECon-Dusseldorf/Labs folder:
 
 * Lab 3 - Matplotlib. Producing basic graphs.
 
-* Lab 4 - Histograms.
+* Lab 4 - Log Analysis. Analyze some API logs.
 
-* Lab 5 - Regressions and Curve Fitting.
+* Lab 5 - Histograms. Work with libcircllhist.
 
+* Lab 6 - Regressions and Curve Fitting.
 
 ## Proceedure
 
