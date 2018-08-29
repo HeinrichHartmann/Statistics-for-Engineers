@@ -4,7 +4,7 @@
 
 We will be using String.io for the labs:
 
-* Visit: https://app.strigo.io/events/WrPz6Wpk78mMDQYgD
+* Visit: https://app.strigo.io/event/dbQur7Xjxt4ssLaT6
 
 * Create a Strigo Account
 
