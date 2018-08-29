@@ -15,6 +15,14 @@ You will get a personal VM with an installed workshop environment.
 You can also bootstrap the workshop environment on your machine.
 All you need is a docker installation and /docker.sh.
 
+## Startup
+
+```
+cd Statistics-for-Engineers
+git pull
+./docker.sh
+```
+
 ## Labs
 
 Labs are located in the SRECon-Dusseldorf/Labs folder:
