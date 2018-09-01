@@ -79,17 +79,17 @@ A writeup of the material was published in print by the CACM and the ACM Queue m
 
 ## Further Reading
 
-* Mathematics
-  - Wasserman - All of Statistics: A Concise Course in Statistical Inference  
-  - Downey - Think Stats: Probability and Statistics for Programmers  
+* Statistics
   - Rice - Mathematical Statistics and Data Analysis (advanced)
 
 * Tools
-  - Janert - Data Analysis with Open Source tools
-  - Janssens - Data Science at the Command Line (O'Reilly 2015)  
-  - Johnson - Pro Bash Programming (Apress, 2009)
   - McKinney - Python for Data Anlaysis  
+  - Janert - Data Analysis with Open Source tools  
+  - Janssens - Data Science at the Command Line (O'Reilly 2015)  
 
+* Queuing Theory
+  - [VividCortex - The Essential Guide to Queueing Theory](https://www.vividcortex.com/resources/queueing-theory)
+  - [VividCortex - Practical Scalability Analysis with the Universal Scalability Law](https://www.vividcortex.com/resources/universal-scalability-law/)
 
 ## Datasets
 
