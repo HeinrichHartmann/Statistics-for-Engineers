@@ -11,7 +11,7 @@ Statistics is the art of extracting information from data. In this tutorial, we 
 
 The tutorial focuses on practical aspects and will give you hands on knowledge of how to handle, import, analyze, and visualize telemetry data with UNIX command line tools, gnuplot, and the iPython toolkit.
 
-## Episodes
+## Selected Episodes
 
 0. [Introduction](2015-10-28-Velocity-Amsterdam/Episode%200%20--%20Introduction.ipynb)
 1. [Visualizing Data](2015-10-28-Velocity-Amsterdam/Episode%201%20--%20Visualizing%20Data.ipynb)
@@ -19,6 +19,7 @@ The tutorial focuses on practical aspects and will give you hands on knowledge o
 3. [Summary Statistics](2015-10-28-Velocity-Amsterdam/Episode%203%20--%20Summary%20Statistics.ipynb)
 4. [Quantiles and Outliers](2015-10-28-Velocity-Amsterdam/Episode%204%20--%20Quantiles%20and%20Outliers.ipynb)
 5. [Forecasting](2015-10-28-Velocity-Amsterdam/Episode%205%20--%20Forecasting.ipynb)
+6. [Queuing Theory](2017-10-17-Velocity-London/S8%20-%20Math%20V%20-%20Queuing%20Theory.ipynb)
 
 ## Boostrap
 
@@ -42,7 +43,6 @@ done
 # * local url: http://0.0.0.0:9998/?token=F2AlHtJBvHIqoLFEVfbMnUVFkcpFlJuZ
 # * public url: http://11.22.33.192:9998/?token=F2AlHtJBvHIqoLFEVfbMnUVFkcpFlJuZ
 ```
-
 
 ## Events
 
