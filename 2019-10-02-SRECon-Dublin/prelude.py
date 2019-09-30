@@ -7,7 +7,8 @@ import matplotlib as mpl
 from matplotlib import pyplot as plt
 from scipy import stats
 from IPython.display import HTML, display
-
+from collections import *
+from math import *
 
 try:
     from tabulate import tabulate
@@ -27,6 +28,8 @@ def P(*args):
     display(HTML('<p class="custom">{}</p>'.format(" ".join([ str(a) for a in args ]))))
 
 def H(txt): display(HTML("<h3>{}</h3>".format(txt)))
+
+def TAB(*args, **kwargs): print(tabulate(*args, **kwargs))
     
 mpl.rcParams['figure.figsize'] = (20,5)
 
