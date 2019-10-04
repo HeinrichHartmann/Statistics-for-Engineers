@@ -1,5 +1,7 @@
 # Statistics for Engineers
 
+Shoutout: This work was made possibly by [Circonus](circonus.com) -- the monitoring system with full histogram support.
+
 ## Abstract
 
 Gathering all kinds of telemetry data is key to operating reliable distributed systems at scale. Once you have set-up your monitoring systems and recorded all relevant data, the challenge becomes to make sense of it and extract valuable information, like:
