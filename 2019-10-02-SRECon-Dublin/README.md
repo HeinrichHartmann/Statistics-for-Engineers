@@ -1,6 +1,6 @@
 # Statistics for Engineers @ SRECon 2019 Dublin
 
-Shoutout: This work was made possible by [Circonus](Circonus.com) -- The monitoring system with full histogram support.
+Shoutout: This work was made possible by [Circonus](https://circonus.com) -- The monitoring system with full histogram support.
 
 ## Preparation
 
