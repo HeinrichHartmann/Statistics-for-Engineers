@@ -50,6 +50,7 @@ done
 
 This workshop has been held in at a number of events in slightly different forms.
 
+* 2019-10-02 [SRECon19](https://www.usenix.org/conference/srecon19emea/presentation/hartmann-statistics), Dublin, Ireland
 * 2018-08-29 [SRECon18](https://www.usenix.org/conference/srecon18europe), Düsseldorf, Germany
 * 2016-06-12 [SRECon16](https://srecon16europe.sched.org/event/7VkQ/statistics-for-engineers), Dublin, Ireland
 * 2015-10-28 [Velocity](http://velocityconf.com/devops-web-performance-eu-2015/public/schedule/detail/45241), Amsterdam, Netherlands
@@ -78,6 +79,7 @@ A writeup of the material was published in print by the CACM and the ACM Queue m
 
 ![](img/acmq.png)
 
+* [Hacker News Thread](https://news.ycombinator.com/item?id=21148092)
 
 ## Further Reading
 
