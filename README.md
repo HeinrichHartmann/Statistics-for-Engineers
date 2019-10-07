@@ -48,6 +48,8 @@ done
 
 ## Events
 
+Sign-up to the [mailing list](https://forms.gle/LHNeZ4F3q5rpTo7A9), to get notified about upcoming Statistics for Engieners events.
+
 This workshop has been held in at a number of events in slightly different forms.
 
 * 2019-10-02 [SRECon19](https://www.usenix.org/conference/srecon19emea/presentation/hartmann-statistics), Dublin, Ireland
